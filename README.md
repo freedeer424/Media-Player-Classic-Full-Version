@@ -245,4 +245,4 @@ This repository serves as the official landing page for Media Player Classic. Th
 **Get the most recent version of Media Player Classic today!**
 
 ---
-**Last updated:** 2026-11-01 15:29:56 UTC
+**Last updated:** 2026-11-01 19:54:58 UTC
